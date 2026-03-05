@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=luis2404123&color=red&style=flat-square&label=Profile+Views)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:311214,100:f91127&height=220&text=BirdProxies&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Proxy%20Infrastructure%20for%20Developers&descSize=20&descAlignY=58&descColor=a5a3a3&animation=fadeIn" width="100%"/>
